@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Edward aka Ed👋
 
 <!--
 **Edward-Sadoon/Edward-Sadoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,13 +11,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-
-
-Hi there, I'm Edward aka Ed👋
 
 I'm a Husband, Father, and Data Engineer!!
 
@@ -37,8 +33,6 @@ I'm a Husband, Father, and Data Engineer!!
 
 
 
-<p><img align="Left" src="https://github-readme-stats.vercel.app/api?username=edward-sadoon&show_icons=true&locale=en" alt="edward-sadoon" /> 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edward-sadoon&" alt="edward-sadoon" /></p>
 
-| <a href="https://github.com/edward-sadoon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edward-sadoon&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Edward's github stats" /></a> | <a href="https://github.com/edward-sadoon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edward-sadoon&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/edward-sadoon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edward-sadoon&show_icons=true&locale=en" alt="edward-sadoon" /> 
+<a href="https://github.com/edward-sadoon/github-readme-stats"><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=edward-sadoon&" alt="edward-sadoon" /></p> 
