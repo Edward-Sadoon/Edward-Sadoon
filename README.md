@@ -37,4 +37,4 @@ I'm a Husband, Father, and Data Engineer!
 <!--
 <a href="https://github.com/edward-sadoon"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edward-sadoon&show_icons=true&commits=true&theme=tokyonight&hide_border=true" alt="Ed's github stats" /></a>
 -->
-<a href="https://github.com/edward-sadoon/github-readme-stats"><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=edward-sadoon&theme=tokyonight&hide_border=true" alt="edward-sadoon" />
+<a ><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=edward-sadoon&theme=tokyonight&hide_border=true" alt="edward-sadoon" />
