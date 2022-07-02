@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a Husband, Father, and Data Engineer!!
+I'm a Husband, Father, and Data Engineer!
 
+- 🔭 I’m currently working on personal data engineering projects
 
+<br />
 
-<h3 align="left">I enjoy using the following Languages, Tools, and Software:</h3>
+<h3 align="left">Currently I'm using the following Languages, Tools, and Software:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VSCode" width="80" height="40"/> </a> 
@@ -31,7 +33,7 @@ I'm a Husband, Father, and Data Engineer!!
 <a href="https://www.notion.io" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/342071/notion.svg" alt="Notion" width="40" height="40"/> </a> 
 <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/314033/github.svg" alt="github" width="40" height="40"/> </a> </p>
 
-
+<br />
 
 
 <a href="https://github.com/edward-sadoon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edward-sadoon&show_icons=true&locale=en" alt="edward-sadoon" /> 
