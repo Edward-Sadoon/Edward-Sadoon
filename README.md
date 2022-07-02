@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a Husband, Father, and Data Engineer!
 
-- 🔭 I’m currently working on personal data engineering projects
+- 🔭 I’m currently working on data engineering projects
 
 <br />
 
