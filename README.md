@@ -1,11 +1,6 @@
 ### Hi there I'm Edward aka Ed👋
 
 <!--
-<p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile"></a>
-</p>
--->
-<!--
 **Edward-Sadoon/Edward-Sadoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
