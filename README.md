@@ -1,6 +1,11 @@
 ### Hi there I'm Edward aka Ed👋
 
 <!--
+<p align="center">
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile"></a>
+</p>
+-->
+<!--
 **Edward-Sadoon/Edward-Sadoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,30 +16,36 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+
 -->
 
 
 I'm a Husband, Father, and Data Engineer!
 
 - 🔭 I’m currently working on data engineering projects
+- ⚡ Fun fact: The first program I wrote wasn't "Hello, World!"😂
 
 <br />
 
-<h3 align="left">Currently I'm using the following Languages, Tools, and Software:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VSCode" width="80" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tabluea" width="40" height="40"/> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/> </a>
-<a href="https://www.notion.io" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/342071/notion.svg" alt="Notion" width="40" height="40"/> </a> 
-<a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/314033/github.svg" alt="github" width="40" height="40"/> </a> </p>
+<h3 align="left">Currently using the following Languages, Tools, and Software:</h3>
+
+[![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
+[![SQL](https://img.shields.io/badge/-SQL-red?logo=SQL)](#)
+[![visual-studio-code](https://img.shields.io/badge/-VSCode-blueviolet?logo=visual-studio-code)](#)
+[![Azure](https://img.shields.io/badge/-AZURE-blue?logo=Microsoft-AZURE)](#)
+[![Docker](https://img.shields.io/badge/-Docker-9cf?logo=Docker)](#)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-important?logo=Kubernetes)](#)
+[![Tableau](https://img.shields.io/badge/-Tableau-lightgrey?logo=Tableau)](#)
+[![Jira](https://img.shields.io/badge/-Jira-9cf?logo=Jira)](#)
+[![Notion](https://img.shields.io/badge/-Notion-blue?logo=Notion)](#)
+[![SublimeText](https://img.shields.io/badge/-SublimeText-inactive?logo=SublimeText)](#)
 
 <br />
-<!--
-<a href="https://github.com/edward-sadoon"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edward-sadoon&show_icons=true&commits=true&theme=tokyonight&hide_border=true" alt="Ed's github stats" /></a>
--->
-<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edward-sadoon&theme=tokyonight&hide_border=true" alt="edward-sadoon"/>
+
+
+### 💻 GitHub Stats</b></summary><br>
+<p align="left">
+<a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=edward-sadoon&hide_border=true&theme=dark"></a></p>
+
+
+
