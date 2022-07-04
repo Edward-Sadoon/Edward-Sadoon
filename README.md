@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 I'm a Husband, Father, and Data Engineer!
 
 - 🔭 I’m currently working on data engineering projects
-- ⚡ Fun fact: The first program I wrote wasn't "Hello, World!"😂
+- ⚡ Fun fact: The first program I wrote was "Hello, World!"😂
 
 <br />
 
