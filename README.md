@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- 🌱 I’m currently learning
 
 -->
 
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 I'm a Husband, Father, and Data Engineer!
 
 - 🔭 I’m currently working on data engineering projects
-- 🌱 I’m currently learning JavaScript
+
 
 <br />
 
@@ -28,6 +29,7 @@ I'm a Husband, Father, and Data Engineer!
 [![SQL](https://img.shields.io/badge/-SQL-red?logo=SQL)](#)
 [![visual-studio-code](https://img.shields.io/badge/-VSCode-blueviolet?logo=visual-studio-code)](#)
 [![Azure](https://img.shields.io/badge/-AZURE-blue?logo=Microsoft-AZURE)](#)
+[![Azure DevOps](https://img.shields.io/badge/-AZUREDevOps-blue?logo=AzureDevOps)](#)
 [![Docker](https://img.shields.io/badge/-Docker-9cf?logo=Docker)](#)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-important?logo=Kubernetes)](#)
 [![Tableau](https://img.shields.io/badge/-Tableau-lightgrey?logo=Tableau)](#)
